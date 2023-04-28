@@ -1,4 +1,4 @@
-package com.example.myshop.services;
+package com.example.myshop.service;
 
 import com.example.myshop.interfaces.ProdamClickAPI;
 
