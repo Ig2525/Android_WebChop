@@ -1,4 +1,4 @@
-package com.example.myshop.dto;
+package com.example.myshop.dto.category;
 
 public class CategoryItemDTO {
     private int id;
