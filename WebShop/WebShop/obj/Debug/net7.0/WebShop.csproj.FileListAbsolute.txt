@@ -61,3 +61,5 @@ K:\A_Step\Lesson_CI\5 Semestr\108 (01-04-2023) Android\Android-main\WebShop\WebS
 K:\A_Step\Lesson_CI\5 Semestr\108 (01-04-2023) Android\Android-main\WebShop\WebShop\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 K:\A_Step\Lesson_CI\5 Semestr\108 (01-04-2023) Android\Android-main\WebShop\WebShop\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 K:\A_Step\Lesson_CI\5 Semestr\108 (01-04-2023) Android\Android-main\WebShop\WebShop\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+K:\A_Step\Lesson_CI\5 Semestr\108 (01-04-2023) Android\Android-main\WebShop\WebShop\bin\Debug\net7.0\WebShop.xml
+K:\A_Step\Lesson_CI\5 Semestr\108 (01-04-2023) Android\Android-main\WebShop\WebShop\obj\Debug\net7.0\WebShop.xml

@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebShop</name>
+    </assembly>
+    <members>
+        <member name="T:WebShop.Migrations.AddtblCategories">
+            <inheritdoc />
+        </member>
+        <member name="M:WebShop.Migrations.AddtblCategories.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebShop.Migrations.AddtblCategories.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebShop.Migrations.AddtblCategories.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:WebShop.Migrations.AddtabelsIdentity">
+            <inheritdoc />
+        </member>
+        <member name="M:WebShop.Migrations.AddtabelsIdentity.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebShop.Migrations.AddtabelsIdentity.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebShop.Migrations.AddtabelsIdentity.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:WebShop.Migrations.tblCategoriesaddcolUserId">
+            <inheritdoc />
+        </member>
+        <member name="M:WebShop.Migrations.tblCategoriesaddcolUserId.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebShop.Migrations.tblCategoriesaddcolUserId.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebShop.Migrations.tblCategoriesaddcolUserId.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="P:WebShop.Models.LoginViewModel.Email">
+            <summary>
+            Пошта користувача
+            </summary>
+            <example>marko@gmail.com</example>
+        </member>
+        <member name="P:WebShop.Models.LoginViewModel.Password">
+            <summary>
+            Пароль користувача
+            </summary>
+            <example>123456</example>
+        </member>
+    </members>
+</doc>

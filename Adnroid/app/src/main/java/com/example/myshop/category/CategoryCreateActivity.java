@@ -71,9 +71,11 @@ public class CategoryCreateActivity extends BaseActivity {
                 .enqueue(new Callback<Void>() {
                     @Override
                     public void onResponse(Call<Void> call, Response<Void> response) {
-                        Intent intent = new Intent(CategoryCreateActivity.this, MainActivity.class);
-                        startActivity(intent);
-                        finish();
+                        if (response.isSuccessful()) {
+                            Intent intent = new Intent(CategoryCreateActivity.this, MainActivity.class);
+                            startActivity(intent);
+                            finish();
+                        }
                     }
 
                     @Override
